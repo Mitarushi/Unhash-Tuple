@@ -4,7 +4,7 @@
 
 # 使い方
 ## ライブラリとして
-Python3.8以降のコードを目標とする場合、このファイルから次のtuple_unhashをimportして使ってください。\
+Python3.8以降のコードを目標とする場合、このファイルから次のtuple_unhashをimportして使ってください。
 
 ```python:
 def tuple_unhash(length: int,
